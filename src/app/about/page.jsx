@@ -297,10 +297,10 @@ export default function AboutPage() {
             img="/assets/211.png"
             desc={
               <>
-                A-253, Second Floor, Meera Bagh, Paschim Vihar, Delhi – 87
+                {/* A-253, Second Floor, Meera Bagh, Paschim Vihar, Delhi – 87 */}
                 <br />
-                Email: Romila1953@gmail.com <br />
-                Ph: 9990303777
+                {/* Email: Romila1953@gmail.com <br /> */}
+                {/* Ph: 9990303777 */}
               </>
             }
           />
@@ -324,10 +324,10 @@ export default function AboutPage() {
             img="/assets/213.png"
             desc={
               <>
-                A-253, Meera Bagh, Paschim Vihar, Delhi – 87
+                {/* A-253, Meera Bagh, Paschim Vihar, Delhi – 87 */}
                 <br />
-                Email: voratanu@gmail.com <br />
-                Ph: 9911116777
+                {/* Email: voratanu@gmail.com <br /> */}
+                {/* Ph: 9911116777 */}
               </>
             }
           />
@@ -352,9 +352,9 @@ export default function AboutPage() {
             img="/assets/205.jpg"
             desc={
               <>
-                A-54, Meera Bagh, Paschim Vihar, Delhi – 87 <br />
-                Email: Abhishek.shah@live.com <br />
-                Ph: 9654177771
+                {/* A-54, Meera Bagh, Paschim Vihar, Delhi – 87 <br /> */}
+                {/* Email: Abhishek.shah@live.com <br /> */}
+                {/* Ph: 9654177771 */}
               </>
             }
           />
@@ -364,9 +364,9 @@ export default function AboutPage() {
             img="/assets/214.png"
             desc={
               <>
-                NO – 355, Aggarwal Plaza, Sector-14, Rohini, Delhi – 85 <br />
-                Email: Amitgupta3375@gmail.com <br />
-                Ph: 9873471241
+                {/* NO – 355, Aggarwal Plaza, Sector-14, Rohini, Delhi – 85 <br /> */}
+                {/* Email: Amitgupta3375@gmail.com <br /> */}
+                {/* Ph: 9873471241 */}
               </>
             }
           />
@@ -377,10 +377,10 @@ export default function AboutPage() {
             img="/assets/206.jpg"
             desc={
               <>
-                H.S No – 2, B-1, Himgiri Enclave, Chander Vihar, <br />
-                Vikas Puri Extn., Nilothi Delhi – 41 <br />
-                Email: Manisandhu74@gmail.com <br />
-                Ph: 9811929243
+                {/* H.S No – 2, B-1, Himgiri Enclave, Chander Vihar, <br /> */}
+                {/* Vikas Puri Extn., Nilothi Delhi – 41 <br /> */}
+                {/* Email: Manisandhu74@gmail.com <br /> */}
+                {/* Ph: 9811929243 */}
               </>
             }
           />
@@ -390,10 +390,10 @@ export default function AboutPage() {
             img="/assets/210.jpeg"
             desc={
               <>
-                201, G.F. Ashoka Enclave, Vasundhara, <br />
-                Faridabad, Haryana – 121003 <br />
-                Email: lovelyenterprises@gmail.com <br />
-                Ph: 8882322232
+                {/* 201, G.F. Ashoka Enclave, Vasundhara, <br /> */}
+                {/* Faridabad, Haryana – 121003 <br /> */}
+                {/* Email: lovelyenterprises@gmail.com <br /> */}
+                {/* Ph: 8882322232 */}
               </>
             }
           />
@@ -403,10 +403,10 @@ export default function AboutPage() {
             img="/assets/209.png"
             desc={
               <>
-                72A, Ismailganj, Station Road, Fatehpur-212601 (UP), India{" "}
+                {/* 72A, Ismailganj, Station Road, Fatehpur-212601 (UP), India{" "} */}
                 <br />
-                Email: rameshtewariftp@gmail.com <br />
-                Ph: 9015445260
+                {/* Email: rameshtewariftp@gmail.com <br /> */}
+                {/* Ph: 9015445260 */}
               </>
             }
           />
