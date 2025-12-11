@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+html, body, #root {
+  height: 100%;
+}
+
+/* Your existing styles */
+.hero-gradient {
+  background: rgba(186, 51, 44, 0.3);
+}
+
+
+.stat-bubble {
+  border-radius: 9999px;
+  box-shadow: 0 8px 24px rgba(2,6,23,0.06);
+}
+
+.pie {
+  --p: 25;
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  background:
+    conic-gradient(var(--c, #ef4444) calc(var(--p)*1%), #e5e7eb 0);
+  display: grid;
+  place-items: center;
+}
+
+
+body {
+  background-image: url("/bg2.png"); /* rename according to your file */
+  background-size:cover;       /* covers whole screen */
+  background-repeat: no-repeat; /* no repeating */
+  background-position: center;  /* center alignment */
+  background-attachment: fixed;
+   /* fixed effect */
+}
+
+.bground {
+  background-image: url("/bg4.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right center; 
+  background-attachment: fixed;
+} 
+
