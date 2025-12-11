@@ -66,7 +66,7 @@ export default function AboutPage() {
 
           <ul className="mt-4 text-slate-700 space-y-3 list-none">
             {[
-              "Providing quality education with focus on girls and deprived communities.",
+              "Providing quality education with focus on girls to children.",
               "Conducting free health awareness & medical support programmes.",
               "Empowering women through skill training & livelihood generation.",
               "Promoting environmental protection through plantation & water management.",
