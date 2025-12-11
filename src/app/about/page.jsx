@@ -66,11 +66,11 @@ export default function AboutPage() {
 
           <ul className="mt-4 text-slate-700 space-y-3 list-none">
             {[
-              "Providing quality education with focus on girls and deprived communities",
-              "Conducting free health awareness & medical support programmes",
-              "Empowering women through skill training & livelihood generation",
-              "Promoting environmental protection through plantation & water management",
-              "Supporting neglected populations like senior citizens and differently-abled",
+              "Providing quality education with focus on girls and deprived communities.",
+              "Conducting free health awareness & medical support programmes.",
+              "Empowering women through skill training & livelihood generation.",
+              "Promoting environmental protection through plantation & water management.",
+              "Supporting neglected populations like senior citizens and differently-abled.",
             ].map((item) => (
               <li key={item} className="flex gap-3">
                 <span className="text-orange-950 font-bold">•</span>
