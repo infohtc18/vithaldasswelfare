@@ -311,7 +311,7 @@ export default function AboutPage() {
             desc={
               <>
                 {/* A-253, Second Floor, Meera Bagh, Paschim Vihar, Delhi – 87 */}
-                <br />
+              
                 Email: neerajmvora@gmail.com <br />
                 Ph: 9311707772
               </>
@@ -339,7 +339,7 @@ export default function AboutPage() {
               <>
                 {/* FLAT NO – 761, POCKET – 5, MAYUR VIHAR, */}
                 <br />
-                PHASE – 1, EAST DELHI – 91 <br />
+                {/* PHASE – 1, EAST DELHI – 91 <br /> */}
                 Email: Shivamchaprana1986@gmail.com
                 <br />
                 Ph: 9873639639
