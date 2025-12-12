@@ -338,7 +338,6 @@ export default function AboutPage() {
             desc={
               <>
                 {/* FLAT NO – 761, POCKET – 5, MAYUR VIHAR, */}
-                <br />
                 {/* PHASE – 1, EAST DELHI – 91 <br /> */}
                 Email: Shivamchaprana1986@gmail.com
                 <br />
