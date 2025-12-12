@@ -310,7 +310,7 @@ export default function AboutPage() {
             img="/assets/212.png"
             desc={
               <>
-                A-253, Second Floor, Meera Bagh, Paschim Vihar, Delhi – 87
+                {/* A-253, Second Floor, Meera Bagh, Paschim Vihar, Delhi – 87 */}
                 <br />
                 Email: neerajmvora@gmail.com <br />
                 Ph: 9311707772
@@ -337,7 +337,7 @@ export default function AboutPage() {
             img="/assets/215.png"
             desc={
               <>
-                FLAT NO – 761, POCKET – 5, MAYUR VIHAR,
+                {/* FLAT NO – 761, POCKET – 5, MAYUR VIHAR, */}
                 <br />
                 PHASE – 1, EAST DELHI – 91 <br />
                 Email: Shivamchaprana1986@gmail.com
@@ -399,7 +399,7 @@ export default function AboutPage() {
           />
           <TeamCard
             name="Ramesh Chandra Tiwari"
-            title="Social Worker"
+            title="Advisor / Event Planner"
             img="/assets/209.png"
             desc={
               <>
